@@ -11,5 +11,14 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^1.2.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jacevezh1/npm-package-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jacevezh1/npm-package-test/issues"
+  },
+  "homepage": "https://github.com/Jacevezh1/npm-package-test#readme"
 }
